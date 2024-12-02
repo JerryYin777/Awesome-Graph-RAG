@@ -8,6 +8,18 @@ Welcome to the Awesome Graph Retrieval-Augmented Generation(RAG) List! This repo
   - [Code](https://github.com/microsoft/graphrag?tab=readme-ov-file)
   - Microsoft
 
+- **LightRAG**
+  - A simple and fast Retrieval-Augmented Generation implementation
+  - [Paper](https://arxiv.org/abs/2410.05779)
+  - [Website](https://lightrag.github.io/)
+  - [Code](https://github.com/HKUDS/LightRAG)
+  - [Video](https://www.youtube.com/watch?v=oageL-1I0GE&feature=youtu.be)
+  - University of Hong Kong
+ 
+  - 
+    
 - **nano-graphrag**
   - A simple, easy-to-hack GraphRAG implementation 
   - [Code](https://github.com/gusye1234/nano-graphrag)
+ 
+
